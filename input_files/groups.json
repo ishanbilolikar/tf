@@ -1,0 +1,8 @@
+{
+    "groups" : [
+        {
+            "name" : "TF Group1",
+            "description" : "This group was created with TF"
+        }
+    ]
+}

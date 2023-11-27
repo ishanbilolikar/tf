@@ -1,0 +1,12 @@
+{
+    "network_zones" : [
+        {
+            "name": "VPN",
+            "type": "IP",
+            "gateways": [
+              "192.168.150.128-192.168.150.151"
+            ],
+            "proxies": []
+          }
+    ]
+}

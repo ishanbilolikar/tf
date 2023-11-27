@@ -1,0 +1,3 @@
+variable "groups_map" {
+  
+}
